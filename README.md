@@ -1,2 +1,3 @@
-# Meetup-2017-11-28
-Nov 28, 2017 - Mayur Patel - High level concept about docker.
+# Mayur Patel - High level Overview about Docker
+
+In this [meetup](https://www.meetup.com/Edmonton-NET-User-Group/events/244352842/) Mayur gives a high level overview of Docker.  For more details see the slides and examples.
